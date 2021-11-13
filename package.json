@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "build prod": "ng build --baseHref=”https://amadridf94.github.io/aws/”"
+    "build prod": "ng build --baseHref=https://amadridf94.github.io/aws/"
   },
   "private": true,
   "dependencies": {
